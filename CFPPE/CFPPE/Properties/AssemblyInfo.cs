@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante lo siguiente
 // conjunto de atributos. Cambie los valores de estos atributos para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("CFPE")]
+[assembly: AssemblyTitle("CFPPE")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CFPE")]
+[assembly: AssemblyProduct("CFPPE")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como ID de typelib si este proyecto se expone a COM
-[assembly: Guid("019aee43-7ec3-4d8e-a562-9c68e20851bc")]
+[assembly: Guid("d1f95f06-eca7-490d-8b67-958c3fc36ded")]
 
 // La información de versión de un ensamblado consta de los siguientes cuatro valores:
 //
